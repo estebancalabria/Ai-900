@@ -34,7 +34,7 @@ Este repositorio contiene material de estudio y recursos para el curso oficial M
 - 💼 [Linkedin](https://www.linkedin.com/in/esteban-calabria-7a44401a/)
 
 ## 📄 Licencia
-Este material está compartido bajo la licencia [especificar licencia]
+Este material está compartido libremente para mis estudiantes
 
 ---
 ⭐ Si este contenido te resulta útil, ¡no olvides dejar tu estrella en el repositorio!
