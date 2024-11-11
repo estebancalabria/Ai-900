@@ -45,12 +45,19 @@ Crear un modelo de clasificación de imágenes para identificar diferentes anima
 2. 📢 Publicar el modelo:
    - Nombre: "animals"
    - Guardar Prediction URL y Key
+
+
+## 🔍 Verificación
+
+1. Abrir un Azure Cli en Powershel
+2. Descargar el archivo classify-image.ps1 del repositorio oficial de ai-900
+```powershell
+wget https://raw.githubusercontent.com/MicrosoftLearning/AI-900-AIFundamentals/refs/heads/main/classify-image.ps1
+```
 3. 💻 Modificar archivo classify-image.ps1:
    - Actualizar $predictionUrl
    - Actualizar $predictionKey
-
-## 🔍 Verificación
-Probar el modelo con el script:
+4. Probar el modelo con el script:
 ```powershell
 ./classify-image.ps1 1  # Prueba con jirafa
 ./classify-image.ps1 2  # Prueba con elefante
