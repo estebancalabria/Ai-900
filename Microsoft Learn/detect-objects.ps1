@@ -1,5 +1,5 @@
 $predictionUrl="https://ai-vision-4trainner.cognitiveservices.azure.com/"
-$predictionKey = "31b618f65c384b919c3db413f79840a9"
+$predictionKey = ""
 
 
 # Code to call Custom Vision service for object detection

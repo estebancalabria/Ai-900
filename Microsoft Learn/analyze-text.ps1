@@ -1,4 +1,4 @@
-$key="82f192a4548a4603ab909a9031c7764a"
+$key=""
 $endpoint="https://ai-language-services-4trainner.cognitiveservices.azure.com/"
 
 # Code to call Text Analytics service to analyze sentiment in text

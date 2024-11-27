@@ -1,9 +1,9 @@
-$key="3139f530c3da4351959b280c17af59e2"
+$key= Read-Host "Ingrese la Key del Servicio de Speech"
 $region="eastus"
 
 
 # Code to call Speech to Text API
-$wav = "./data/speech/Recording.wav"
+$wav = "./data/speech/time.wav"
 
 $headers = @{}
 $headers.Add( "Ocp-Apim-Subscription-Key", $key )

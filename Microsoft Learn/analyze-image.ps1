@@ -1,5 +1,5 @@
-$key="3pl8YWWkzII8Lydeb7Ls0iSbyEYyleSQRWiNOXmmuI7ZoCtofb5nJQQJ99AJACYeBjFXJ3w3AAAFACOGUECJ"
-$endpoint="https://vision4trainner2.cognitiveservices.azure.com" 
+$key= ""
+$endpoint= "" 
 
 
 # Code to call Computer Vision service for image analysis

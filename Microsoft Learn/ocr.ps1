@@ -1,15 +1,15 @@
-$key="31b618f65c384b919c3db413f79840a9"
-$endpoint="https://ai-vision-4trainner.cognitiveservices.azure.com/"
-
+$endpoint = Read-Host "Ingrese el endpoint del servicio de Azure AI Services"
+$key = Read-Host "Ingrese la key del serivicio de Azure AI Services"
+$img = Read-Host "Ingrese la URL de la imagen"
 
 # Code to call OCR service for text in image analysis
-$img_file = "advert.jpg"
-if ($args.count -gt 0 -And $args[0] -in ("advert.jpg", "letter.jpg", "note.jpg"))
-{
-    $img_file = $args[0]
-}
+#$img_file = "advert.jpg"
+#if ($args.count -gt 0 -And $args[0] -in ("advert.jpg", "letter.jpg", "note.jpg"))
+#{
+#    $img_file = $args[0]
+#}
 
-$img = "https://raw.githubusercontent.com/MicrosoftLearning/AI-900-AIFundamentals/main/data/vision/$img_file"
+#$img = "https://raw.githubusercontent.com/MicrosoftLearning/AI-900-AIFundamentals/main/data/vision/$img_file"
 
 $headers = @{}
 $headers.Add( "Ocp-Apim-Subscription-Key", $key )

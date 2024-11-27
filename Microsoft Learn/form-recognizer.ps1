@@ -1,9 +1,10 @@
-$key="da96ff47ec2644b7b6f49afc03f6efa5"
-$endpoint="https://ai-document-intelligence-4trainner.cognitiveservices.azure.com/"
+$endpoint = Read-Host "Ingrese el endpoint del servicio de Azure AI Services"
+$key = Read-Host "Ingrese la key del serivicio de Azure AI Services"
+$img = Read-Host "Ingrese la URL de la imagen"
 
 # Create the URL where the raw receipt image can be found
 #$img = "https://raw.githubusercontent.com/MicrosoftLearning/AI-900-AIFundamentals/main/data/vision/receipt.jpg"
-$img = "https://templates.invoicehome.com/modelo-factura-es-clasico-blanco-750px.png"
+#$img = "https://templates.invoicehome.com/modelo-factura-es-clasico-blanco-750px.png"
 
 # Create the header for the REST POST with the subscription key
 # In this example, the URL of the image will be sent instead of 
