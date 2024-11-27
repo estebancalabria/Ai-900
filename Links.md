@@ -11,3 +11,4 @@
 * 📌 Portal de Computer Vision : https://portal.vision.cognitive.azure.com/
 * 📌 Portal de Custom Vision : https://www.customvision.ai/
 * 📌 Portal de Machine Learning: https://ml.azure.com/
+* 📌 Portal de Azure Openai: https://oai.azure.com/
