@@ -12,3 +12,4 @@
 * 📌 Portal de Custom Vision : https://www.customvision.ai/
 * 📌 Portal de Machine Learning: https://ml.azure.com/
 * 📌 Portal de Azure Openai: https://oai.azure.com/
+* 📌 Portal de Speech : https://speech.microsoft.com/
