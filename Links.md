@@ -3,7 +3,8 @@
 ## Recursos
 
 * 📌 Repositorio oficial de Microsoft del curso : https://github.com/MicrosoftLearning/AI-900-AIFundamentals
-* 📌 Laboratorios del curso : https://microsoftlearning.github.io/AI-900-AIFundamentals/
+* 📌 Laboratorios del curso : https://microsoftlearning.github.io/AI-900-AIFundamentals/ 
+* 📌 Microsoft Learn : https://learn.microsoft.com/es-es/training/courses/ai-900t00
 
 ## Portales de Azure
 
