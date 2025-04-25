@@ -9,6 +9,7 @@
 ## Portales de Azure
 
 * 📌 Portal de Azure : https://portal.azure.com/
+* 📌 Portal de Servicios IA Azure (General): https://ai.azure.com/
 * 📌 Portal de Computer Vision : https://portal.vision.cognitive.azure.com/
 * 📌 Portal de Custom Vision : https://www.customvision.ai/
 * 📌 Portal de Machine Learning: https://ml.azure.com/
