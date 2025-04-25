@@ -14,3 +14,4 @@
 * 📌 Portal de Machine Learning: https://ml.azure.com/
 * 📌 Portal de Azure Openai: https://oai.azure.com/
 * 📌 Portal de Speech : https://speech.microsoft.com/
+* 📌 Portal de Language :https://language.cognitive.azure.com/
