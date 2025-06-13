@@ -5,6 +5,8 @@
 * 📌 Repositorio oficial de Microsoft del curso : https://github.com/MicrosoftLearning/AI-900-AIFundamentals
 * 📌 Laboratorios del curso : https://microsoftlearning.github.io/AI-900-AIFundamentals/ 
 * 📌 Microsoft Learn : https://learn.microsoft.com/es-es/training/courses/ai-900t00
+* 📌 IG Profesional del Profe : https://www.instagram.com/mct.esteban.calabria/
+* 📌 Carrousel Servicios AI-900 : https://www.instagram.com/p/DDs51pdOBI6/?img_index=1
 
 ## Portales de Azure
 
