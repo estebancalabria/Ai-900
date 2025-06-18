@@ -11,7 +11,7 @@
        * Document Intelligence (OCR : Optical Character Recognition)
    * Servicions de Lenguaje
         * Translator
-        * Language Service
+        * Language Service (Modelos PRe entrenados)
         * Bot Service
         * Content Service
         * AI Search (Busquedas Semanticas de texto)
