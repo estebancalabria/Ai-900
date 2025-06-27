@@ -18,3 +18,7 @@
 * 📌 Portal de Azure Openai: https://oai.azure.com/
 * 📌 Portal de Speech : https://speech.microsoft.com/
 * 📌 Portal de Language :https://language.cognitive.azure.com/
+
+## Recursos Adicionales Machine Learning
+* 📌 PPT Profe : https://www.instagram.com/p/C1ntRrRswAu/?img_index=1
+* 📌 Kaggle : https://www.kaggle.com/
