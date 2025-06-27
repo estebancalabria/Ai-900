@@ -1,3 +1,6 @@
+# Si no encuentra el modulo hacer en una celda de codigo anterior pip install scikit-learn sin el ! adelante
+# NO PONER !pip install scikit-learn COMO EN COLAB SINO DIRECTAMENTE pip install scikit-learn
+
 # Paso 1: Importar
 from sklearn.linear_model import LinearRegression
 
