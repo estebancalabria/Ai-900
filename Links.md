@@ -21,4 +21,6 @@
 
 ## Recursos Adicionales Machine Learning
 * 📌 PPT Profe : https://www.instagram.com/p/C1ntRrRswAu/?img_index=1
+* 📌 PPT Librerias ML Python :https://www.instagram.com/p/C_VyOHHRv0N/?img_index=1
 * 📌 Kaggle : https://www.kaggle.com/
+
