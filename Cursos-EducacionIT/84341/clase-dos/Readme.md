@@ -1,4 +1,4 @@
-#  Clase Dos =\- 20 de Ago 2025
+#  Clase Dos - 20 de Ago 2025
 
 ## Probar el recurso de Texto
 
